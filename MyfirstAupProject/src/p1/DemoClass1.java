@@ -6,6 +6,8 @@ public class DemoClass1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("My first trial to push to gitHub");
+		
+		System.out.println("My first code modified");
 
 	}
 
